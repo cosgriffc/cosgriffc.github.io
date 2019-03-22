@@ -8,12 +8,6 @@
   
     <url>
     
-      <loc>/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>/author/</loc>
       <priority>0</priority>
     </url>
@@ -21,6 +15,12 @@
     <url>
     
       <loc>/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/</loc>
       <priority>0</priority>
     </url>
   
