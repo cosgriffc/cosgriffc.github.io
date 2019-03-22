@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C.V. Cosgriff on C.V. Cosgriff</title>
-    <link>/</link>
-    <description>Recent content in C.V. Cosgriff on C.V. Cosgriff</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <title>mimic on C.V. Cosgriff</title>
+    <link>/tags/mimic/</link>
+    <description>Recent content in mimic on C.V. Cosgriff</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2019 12:33:27 -0400</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/mimic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>MIMIC-III Machine Learning Demonstration</title>
