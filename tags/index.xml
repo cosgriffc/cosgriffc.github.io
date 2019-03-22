@@ -10,23 +10,5 @@
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>machine-learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Fri, 22 Mar 2019 12:33:27 -0400</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mimic</title>
-      <link>/tags/mimic/</link>
-      <pubDate>Fri, 22 Mar 2019 12:33:27 -0400</pubDate>
-      
-      <guid>/tags/mimic/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
