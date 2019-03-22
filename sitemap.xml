@@ -32,11 +32,6 @@
   
     <url>
     
-      <loc>/post/</loc>
-    </url>
-  
-    <url>
-    
       <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
