@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>causal-inference</title>
+      <link>/tags/causal-inference/</link>
+      <pubDate>Fri, 22 Mar 2019 13:25:51 -0400</pubDate>
+      
+      <guid>/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>data-science</title>
       <link>/tags/data-science/</link>
       <pubDate>Fri, 22 Mar 2019 13:13:13 -0400</pubDate>
@@ -34,6 +43,15 @@
       <pubDate>Fri, 22 Mar 2019 13:13:13 -0400</pubDate>
       
       <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression-discontinuity</title>
+      <link>/tags/regression-discontinuity/</link>
+      <pubDate>Fri, 22 Mar 2019 13:25:51 -0400</pubDate>
+      
+      <guid>/tags/regression-discontinuity/</guid>
       <description></description>
     </item>
     
